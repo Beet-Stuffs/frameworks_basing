@@ -250,4 +250,8 @@
 
     <!-- Whether to allow network traffic on statusbar -->
     <bool name="config_supportsNetworkTrafficOnStatusBar">true</bool>
+
+    <!-- Boost Framework -->
+    <bool name="config_supportsBoostFramework">false</bool>
+
 </resources>
